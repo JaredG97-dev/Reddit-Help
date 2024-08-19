@@ -1,0 +1,1 @@
+hello reddit viewers, the thing i need help with in this section is lighting. you can find the struct we're meant to implement in SceneManager.cpp. I will be adding an image to this repository to give an idea of what I want to do.
